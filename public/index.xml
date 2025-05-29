@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Ulied</title>
-    <link>https://danieluliedguevara.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Daniel Ulied</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <atom:link href="https://danieluliedguevara.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://danieluliedguevara.github.io/about/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danieluliedguevara.github.io/about/about/</guid>
-      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;https://github.com/russross/blackfriday&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Daniel Ulied is a telecommunications engineer and network software specialist based in Barcelona, Spain. Currently pursuing a PhD at Universidad Miguel Hernández, Daniel has extensive experience developing advanced V2X communication protocols and scalable cloud architectures, particularly in automotive and safety-critical systems. He has contributed to major projects at i2CAT Foundation and Volkswagen Group (SEAT), focusing on network protocol stacks and Kubernetes deployment. With a strong foundation in Python, Go, and C programming and hands-on expertise in Kubernetes, AWS, and Helm, Daniel bridges academic research and real-world applications. His work includes multiple publications and open-source contributions that advance the interoperability and reliability of intelligent transportation systems.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
