@@ -33,6 +33,10 @@ Temporary Items
 # End of https://www.gitignore.io/api/macos
 
 .vscode
+.hugo_build.lock
 
 # customize Headers whiteout touch git submodule.
 layouts/partials/extra-head.html
+
+# Public (should be created by the pipeline)
+/public/
