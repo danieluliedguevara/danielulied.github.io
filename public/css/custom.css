@@ -1,0 +1,4 @@
+.footer__bottom {
+  font-size: 0.8rem !important;
+  color: red !important;  /* test if it works by changing color */
+}
