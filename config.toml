@@ -248,7 +248,6 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
-    weight 
   [[menu.main]]
     identifier = "CV"
     name       = "CV"
