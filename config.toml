@@ -190,6 +190,5 @@ disableHugoGeneratorInject = false
     identifier = "cv"
     name       = "CV"
     url        = "/files/Daniel_Ulied_CV.pdf"
-    pre        = "<i class='fas fa-file-pdf'></i> "  # optional icon if your theme supports it
     weight     = 20
 
