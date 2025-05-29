@@ -188,6 +188,6 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "/files/Daniel_Ulied_CV.pdf"
+    url        = "/files/daniel_ulied_cv.pdf"
     weight     = 20
 
