@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://danieluliedguevara.github.io/about/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://danieluliedguevara.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://danieluliedguevara.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://danieluliedguevara.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://danieluliedguevara.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://danieluliedguevara.github.io/tags/</loc>
   </url>
 </urlset>
