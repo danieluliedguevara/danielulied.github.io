@@ -39,4 +39,4 @@ Temporary Items
 layouts/partials/extra-head.html
 
 # Public (should be created by the pipeline)
-/public/
+public/
