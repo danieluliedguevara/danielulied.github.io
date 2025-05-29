@@ -143,8 +143,8 @@ disableHugoGeneratorInject = false
     theme = "#1b1c1d"
 
   [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoMark     = ""
+    logoText     = "home/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
@@ -236,7 +236,12 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/daniel-ulied/"
 
-
+[languages]
+  [languages.en]
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  [languages.en.params]
+    subtitle  = "Hello Friend NG Theme"
 
 [menu]
   [[menu.main]]
